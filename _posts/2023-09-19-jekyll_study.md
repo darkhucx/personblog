@@ -14,3 +14,7 @@ def hello
 end
 
 ```
+
+```fish
+puts $PWD
+```
