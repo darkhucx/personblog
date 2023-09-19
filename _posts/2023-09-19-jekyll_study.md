@@ -6,8 +6,6 @@ categories: [Code]
 tags: [jekyll]
 author: <author_id>
 ---
-
-
 Jekyll 及 Markdown 语法
 
 ```ruby
