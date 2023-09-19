@@ -15,6 +15,6 @@ end
 
 ```
 
-```fish
+```shell
 puts $PWD
 ```
